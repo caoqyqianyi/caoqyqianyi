@@ -79,7 +79,7 @@ Built reproducible Python/SQL workflows to harmonise multi‑source environmenta
 
 #### 🌳 Smart‑Trees Urban Micro‑Climate IoT Analysis (C20 e.V.)
 <!-- Replace src with your Smart‑Trees raw image url when ready -->
-<img width="400" src="YOUR_SMARTTREES_RAW_URL" alt="Smart‑Trees web‑map preview">
+<img width="800" src="https://github.com/caoqyqianyi/caoqyqianyi/blob/0d8e35e17b38fa4e327390fcef5726f184950ef6/Images/Smart_Trees" alt="Smart‑Trees web‑map preview">
 Time‑series analysis of urban IoT sensor measurements; built interactive Mapbox‑GL‑JS web‑mapping for non‑expert stakeholders in the Smarte KielRegion project.
 [Repo](https://github.com/caoqyqianyi/smart‑trees‑repo) | [Project‑page]()
 
