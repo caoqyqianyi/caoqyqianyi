@@ -1,12 +1,11 @@
 <div align="center">
 
 # 👋 Hi, I'm Qianyi Cao
-### Environmental Data Analyst | Research Coordination & Scientific Visualisation
+### Geospatial Data| Environment, Climate Change, Disaster Management
 
-Early‑career researcher passionate about **multidimensional environmental systems, nexus thinking, and translating complex datasets into actionable science outputs**.
-I enjoy building reproducible analytical workflows, creating accessible visual communications, and coordinating multi‑stakeholder international research teams.
-
-Open for relocation to Vienna (Laxenburg) for integrated‑assessment climate‑scenario research opportunities ✈️
+I am a geospatial data analyst and cartographer who integrates **multi-source** data to provide **multidimensional** perspectives **across disciplines** in a **multicultural** environment. From data management and integration to analysis and visualization, I bring skills and experience in environmental monitoring, climate change adaptation, and disaster management across three continents.
+Passionate about **environmental systems, nexus thinking, and translating complex datasets into actionable science outputs**.
+I enjoy building reproducible analytical workflows, creating accessible visual communications, and coordinating multi‑stakeholder international teams.
 
 </div>
 
