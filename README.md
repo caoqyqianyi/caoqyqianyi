@@ -66,8 +66,8 @@ I am a geospatial data analyst and cartographer who integrates **multi-source** 
 #### 🏆 WEFE‑Nexus Multi‑scale Analysis
 <table>
   <tr>
-    <td><img width="320" src="https://raw.githubusercontent.com/caoqyqianyi/caoqyqianyi/4e2a31f28e4ca68dea4359f55f5299f8f782cafa/Images/WEFE_PowerBI.png" alt="WEFE PowerBI dashboard"></td>
-    <td><img width="320" src="https://raw.githubusercontent.com/caoqyqianyi/caoqyqianyi/4e2a31f28e4ca68dea4359f55f5299f8f782cafa/Images/WEFE_PowerBI.png" alt="WEFE‑Nexus conceptual visual"></td>
+    <td><img width="400" src="https://raw.githubusercontent.com/caoqyqianyi/caoqyqianyi/4e2a31f28e4ca68dea4359f55f5299f8f782cafa/Images/WEFE_PowerBI.png" alt="WEFE PowerBI dashboard"></td>
+    <td><img width="400" src="https://raw.githubusercontent.com/caoqyqianyi/caoqyqianyi/4e2a31f28e4ca68dea4359f55f5299f8f782cafa/Images/WEFE_PowerBI_2.png"alt="WEFE‑Nexus conceptual visual"></td>
   </tr>
 </table>
 
