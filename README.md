@@ -66,14 +66,16 @@ I am a geospatial data analyst and cartographer who integrates **multi-source** 
 #### 🏆 WEFE‑Nexus Multi‑scale Analysis
 <table>
   <tr>
-    <td><img width="400" src="https://raw.githubusercontent.com/caoqyqianyi/caoqyqianyi/4e2a31f28e4ca68dea4359f55f5299f8f782cafa/Images/WEFE_PowerBI.png" alt="WEFE PowerBI dashboard"></td>
-    <td><img width="400" src="https://raw.githubusercontent.com/caoqyqianyi/caoqyqianyi/4e2a31f28e4ca68dea4359f55f5299f8f782cafa/Images/WEFE_PowerBI_2.png"alt="WEFE‑Nexus conceptual visual"></td>
+    <td><img width="500" src="https://raw.githubusercontent.com/caoqyqianyi/caoqyqianyi/4e2a31f28e4ca68dea4359f55f5299f8f782cafa/Images/WEFE_PowerBI.png" alt="WEFE PowerBI dashboard"></td>
+    <td><img width="500" src="https://github.com/caoqyqianyi/caoqyqianyi/blob/ba5b24bafbe6d4be4bdb156cc1a0d870418b2475/Images/WEFE_PowerBI_2.png"alt="WEFE‑Nexus visual"></td>
   </tr>
 </table>
 
 Master thesis & TRANS‑SAHARA Horizon‑Europe project | AGIT 2025 Best‑Poster‑Award.
-Built reproducible Python/SQL workflows to harmonise multi‑source environmental‑socio‑economic datasets and compute spatial climate‑resilience indicators.
-[Repo](https://github.com/caoqyqianyi/wefe‑nexus‑repo) | [Poster‑link]()
+Built reproducible Python/SQL workflows to harmonise multi‑source environmental‑socio‑economic datasets and compute spatial climate‑resilience indicators. Visualized the WEFE Nexus interdependencies with integration of QGIS and PowerBI dashboard.
+
+[Water-Energy-Food-Energy Nexus Interdependencies Analysis](https://github.com/caoqyqianyi/wefe‑nexus) 
+ | [AGIT 2025 Best‑Poster‑link](https://agit25posters.blogspot.com/2025/06/45-visualizing-water-energy-food.html)
 
 #### 🌳 Smart‑Trees Urban Micro‑Climate IoT Analysis (C20 e.V.)
 <!-- Replace src with your Smart‑Trees raw image url when ready -->
