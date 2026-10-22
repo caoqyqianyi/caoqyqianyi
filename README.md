@@ -57,3 +57,39 @@ I am a geospatial data analyst and cartographer who integrates **multi-source** 
 <img height="20" src="https://img.shields.io/badge/VS_Code-333333?style=flat&logo=visual-studio-code">
 <img height="20" src="https://img.shields.io/badge/RStudio-333333?style=flat&logo=rstudio">
 <img height="20" src="https://img.shields.io/badge/JupyterLab-333333?style=flat&logo=jupyter-lab">
+
+---
+
+### 📂 Selected Projects <details><summary>Click to expand view projects</summary>
+
+> *Code‑based repos are pinned on my GitHub profile page.*
+
+#### 🏆 WEFE‑Nexus Multi‑scale Analysis
+<img width="400" src="./assets/wefe_nexus_preview.png" alt="WEFE‑Nexus poster preview">
+Master thesis & TRANS‑SAHARA Horizon‑Europe project | AGIT 2025 Best‑Poster‑Award.
+Built reproducible Python/SQL workflows to harmonise multi‑source environmental‑socio‑economic datasets and compute spatial climate‑resilience indicators.
+[Repo](https://github.com/your‑username/wefe‑nexus‑repo) | [Poster‑link]()
+
+#### 🌳 Smart‑Trees Urban Micro‑Climate IoT Analysis (C20 e.V.)
+<img width="400" src="./assets/smarttrees_preview.png" alt="Smart‑Trees web‑map preview">
+Time‑series analysis of urban IoT sensor measurements; built interactive Mapbox‑GL‑JS web‑mapping for non‑expert stakeholders in the Smarte KielRegion project.
+[Repo](https://github.com/your‑username/smart‑trees‑repo) | [Project‑page]()
+
+#### 🛰️ UN‑SPIDER | Mapping Disaster Resilience: GeoAI Best Practices
+Contributed technical writing, case‑study curation and figure production for UN‑SPIDER flagship report launched at AI for Good Global Summit 2026, coordinating inputs from a global network of 31 regional offices.
+[Publication‑link]()
+
+#### 🗺️ Lunisolar Map 2025 (GeoHipster Calendar)
+Cartographic visual narrative connecting traditional 24‑solar‑terms knowledge with global climate‑agricultural conditions.
+[Project‑link]()
+
+</details>
+
+---
+
+<a href="https://github.com/[YOUR‑GITHUB‑USERNAME]">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=[YOUR‑GITHUB‑USERNAME]&theme=buefy&show_icons=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR‑GITHUB‑USERNAME]&theme=buefy&layout=compact" />
+</a>
+
+---
