@@ -15,7 +15,7 @@ I am a geospatial data analyst and cartographer who integrates **multi-source** 
 - 🌱 &nbsp; Interested in climate‑mitigation scenarios, integrated assessment modelling, turning complex datasets into policy‑ready briefing materials and scientific visualisation.
 - ✍️ &nbsp; Enjoy cartographic storytelling, technical documentation and science communication for mixed expert‑and‑non‑expert audiences.
 
-> Languages: 🇨🇳 Chinese (Native) |🇬🇧 English (C1) |🇩🇪 German (B1, ongoing learning)
+> Languages: 🇨🇳 Chinese (Native) | 🇬🇧 English (C1) | 🇩🇪 German (B1, ongoing learning)
 
 ---
 
