@@ -78,13 +78,10 @@ Built reproducible Python/SQL workflows to harmonise multi‑source environmenta
  | [AGIT 2025 Best‑Poster‑link](https://agit25posters.blogspot.com/2025/06/45-visualizing-water-energy-food.html)
 
 #### 🌳 Smart‑Trees Urban Micro‑Climate IoT Analysis (C20 e.V.)
-
-<img width="800" src="https://github.com/caoqyqianyi/caoqyqianyi/blob/744f20b95e8432224d8f494af288e50117286a47/Images/Smart_Trees.png" alt="Smart‑Trees web‑map preview">
-
 <table>
   <tr>
-    <td><img width="500" src="https://raw.github.com/caoqyqianyi/caoqyqianyi/blob/744f20b95e8432224d8f494af288e50117286a47/Images/Smart_Trees.png" alt="Smart‑Trees web‑map preview"></td>
-    <td><img width="500" src="https://github.com/caoqyqianyi/caoqyqianyi/blob/ba5b24bafbe6d4be4bdb156cc1a0d870418b2475/Images/WEFE_PowerBI_2.png"alt="WEFE‑Nexus visual"></td>
+    <td><img width="500" src="https://github.com/caoqyqianyi/caoqyqianyi/blob/744f20b95e8432224d8f494af288e50117286a47/Images/Smart_Trees.png" alt="Smart‑Trees web‑map preview"></td>
+    <td><img width="500" src="https://github.com/caoqyqianyi/caoqyqianyi/blob/531fa0ba818e080db5fc9ec7f71980901e1b5dee/Images/Smart_Trees_2.jpg"alt="Smart Trees final website"></td>
   </tr>
 </table>
 
@@ -99,7 +96,7 @@ Contributed technical writing, case‑study curation, and figure production for 
 [Mapping Disaster Resilience | Second Edition 2026](https://un-spider.org/about/mapping-disaster-resilience-second-edition-2026)
 
 #### 🗺️ Lunisolar Map 2025 (GeoHipster Calendar)
-Published Lunisolar Map 2025 on GeoHipster Calendar globally. Created a cartographic visual narrative connecting traditional 24‑solar‑terms knowledge with global climate‑agricultural conditions.
+Published Lunisolar Map 2025 on the GeoHipster Calendar globally. Created a cartographic visual narrative connecting traditional 24‑solar‑terms knowledge with global climate‑agricultural conditions.
 
 [Lunisolar Map 2025 (GeoHipster Calendar)]( https://www.geohipster.com/2025/07/24/maps-and-mappers-of-the-2025-calendar-june-cao-qianyi/)
 
