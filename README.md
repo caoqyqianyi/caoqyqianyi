@@ -1,30 +1,19 @@
 <div align="center">
 
 # 👋 Hi, I'm Qianyi Cao
-## 🗺️ Geospatial Data | 🛰️ Earth Observation
-### Environment, Climate Change, Disaster Management
+### 🗺️ Geospatial Data | 🛰️ Earth Observation | 🌳 Environment, Climate Change, Disaster Management
 
 I am a geospatial data analyst and cartographer who integrates **multi-source** data to provide **multidimensional** perspectives **across disciplines** in a **multicultural** environment. From data management and integration to analysis and visualization, I bring skills and experience in environmental monitoring, climate change adaptation, and disaster management across three continents.
 </div>
 
 ---
 
-## 🧩 About Me
-My work sits at the intersection of environmental data science, geospatial analytics, and interdisciplinary research coordination.
-I have hands‑on experience processing multi‑source environmental & socio‑economic datasets, producing scientific figures and briefing materials, and collaborating across international partners from UN agencies to EU‑Horizon research consortia.
-
-Key transferable strengths relevant for climate‑mitigation pathway work:
-
-✅ End‑to‑end data wrangling, quality‑control & repository curation
-
-✅ Building reproducible Python / SQL analytical pipelines
-
-✅ Scientific visualisation & translating technical content for mixed audiences
-
-✅ Cross‑team coordination for multi‑partner research deliverables
-
-✅ Strong attention‑to‑detail and experience working under tight project milestones
-
+### 🧩 About Me
+- 🌳 &nbsp; Environmental data analyst focusing on geospatial systems, WEFE‑nexus, climate resilience and reproducible environmental research workflows.
+- 🎓 &nbsp; Erasmus Mundus Joint Master graduate in Cartography (Technical University of Munich / Technical University of Vienna / ITC‑Twente); Bachelor in Geographic Information Science (GIS).
+- 💼 &nbsp; Experience across UN‑SPIDER, Horizon‑Europe research projects and applied urban environmental IoT analysis; skilled in multi‑partner research coordination.
+- 🌱 &nbsp; Interested in climate‑mitigation scenarios, integrated assessment modelling, turning complex datasets into policy‑ready briefing materials and scientific visualisation.
+- ✍️ &nbsp; Enjoy cartographic storytelling, technical documentation and science communication for mixed expert‑and‑non‑expert audiences.
 
 > Languages: Chinese (Native) | English (C1) | German (B1, ongoing learning)
 
