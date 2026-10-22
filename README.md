@@ -60,10 +60,11 @@ I am a geospatial data analyst and cartographer who integrates **multi-source** 
 
 ---
 
-### 📂 Selected Projects <details><summary>Click the links to to view more details</summary>
+### 📂 Selected Projects
+#### Click the links to view more details
 
 
-#### 🏆 WEFE‑Nexus Multi‑scale Analysis
+#### 🏆 Water-Energy-Food-Ecosystem Nexus Multi‑scale Analysis
 <table>
   <tr>
     <td><img width="500" src="https://raw.githubusercontent.com/caoqyqianyi/caoqyqianyi/4e2a31f28e4ca68dea4359f55f5299f8f782cafa/Images/WEFE_PowerBI.png" alt="WEFE PowerBI dashboard"></td>
