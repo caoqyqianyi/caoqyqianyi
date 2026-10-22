@@ -72,23 +72,34 @@ I am a geospatial data analyst and cartographer who integrates **multi-source** 
 </table>
 
 Master thesis & TRANS‑SAHARA Horizon‑Europe project | AGIT 2025 Best‑Poster‑Award.
-Built reproducible Python/SQL workflows to harmonise multi‑source environmental‑socio‑economic datasets and compute spatial climate‑resilience indicators. Visualized the WEFE Nexus interdependencies with integration of QGIS and PowerBI dashboard.
+Built reproducible Python/SQL workflows to harmonise multi‑source environmental‑socio‑economic datasets and compute spatial climate‑resilience indicators. Visualized the WEFE Nexus interdependencies with integration of QGIS and Power BI dashboard.
 
 [Water-Energy-Food-Energy Nexus Interdependencies Analysis](https://github.com/caoqyqianyi/wefe‑nexus) 
  | [AGIT 2025 Best‑Poster‑link](https://agit25posters.blogspot.com/2025/06/45-visualizing-water-energy-food.html)
 
 #### 🌳 Smart‑Trees Urban Micro‑Climate IoT Analysis (C20 e.V.)
-<!-- Replace src with your Smart‑Trees raw image url when ready -->
-<img width="800" src="https://github.com/caoqyqianyi/caoqyqianyi/blob/0d8e35e17b38fa4e327390fcef5726f184950ef6/Images/Smart_Trees" alt="Smart‑Trees web‑map preview">
+
+<img width="800" src="https://github.com/caoqyqianyi/caoqyqianyi/blob/744f20b95e8432224d8f494af288e50117286a47/Images/Smart_Trees.png" alt="Smart‑Trees web‑map preview">
+
+<table>
+  <tr>
+    <td><img width="500" src="https://raw.github.com/caoqyqianyi/caoqyqianyi/blob/744f20b95e8432224d8f494af288e50117286a47/Images/Smart_Trees.png" alt="Smart‑Trees web‑map preview"></td>
+    <td><img width="500" src="https://github.com/caoqyqianyi/caoqyqianyi/blob/ba5b24bafbe6d4be4bdb156cc1a0d870418b2475/Images/WEFE_PowerBI_2.png"alt="WEFE‑Nexus visual"></td>
+  </tr>
+</table>
+
 Time‑series analysis of urban IoT sensor measurements; built interactive Mapbox‑GL‑JS web‑mapping for non‑expert stakeholders in the Smarte KielRegion project.
-[Repo](https://github.com/caoqyqianyi/smart‑trees‑repo) | [Project‑page]()
+
+[Smart‑Trees Urban Micro‑Climate IoT Analysis](https://github.com/caoqyqianyi/smart‑trees‑repo) 
+ | [Smart Trees Project‑page](https://smart-trees.de/?view=trees&tree=tree-001&rangeData=24h)
 
 #### 🛰️ UN‑SPIDER | Mapping Disaster Resilience: GeoAI Best Practices
-Contributed technical writing, case‑study curation and figure production for UN‑SPIDER flagship report launched at AI for Good Global Summit 2026, coordinating inputs from a global network of 31 regional offices.
-[Publication‑link]()
+Contributed technical writing, case‑study curation, and figure production for UN‑SPIDER flagship report launched at AI for Good Global Summit 2026, coordinating inputs from a global network of 31 regional offices.
+
+[Mapping Disaster Resilience | Second Edition 2026](https://un-spider.org/about/mapping-disaster-resilience-second-edition-2026)
 
 #### 🗺️ Lunisolar Map 2025 (GeoHipster Calendar)
-Cartographic visual narrative connecting traditional 24‑solar‑terms knowledge with global climate‑agricultural conditions.
-[Project‑link]()
+Published Lunisolar Map 2025 on GeoHipster Calendar globally. Created a cartographic visual narrative connecting traditional 24‑solar‑terms knowledge with global climate‑agricultural conditions.
 
-</details>
+[Lunisolar Map 2025 (GeoHipster Calendar)]( https://www.geohipster.com/2025/07/24/maps-and-mappers-of-the-2025-calendar-june-cao-qianyi/)
+
