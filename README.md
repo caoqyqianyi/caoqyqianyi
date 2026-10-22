@@ -65,7 +65,7 @@ I am a geospatial data analyst and cartographer who integrates **multi-source** 
 > *Code‑based repos are pinned on my GitHub profile page.*
 
 #### 🏆 WEFE‑Nexus Multi‑scale Analysis
-<img width="400" src="./assets/wefe_nexus_preview.png" alt="WEFE‑Nexus poster preview">
+<img width="400" src="./assets/wefe_nexus_preview.png" alt="WEFE‑Nexus Analysis and PoweBI dashboard">
 Master thesis & TRANS‑SAHARA Horizon‑Europe project | AGIT 2025 Best‑Poster‑Award.
 Built reproducible Python/SQL workflows to harmonise multi‑source environmental‑socio‑economic datasets and compute spatial climate‑resilience indicators.
 [Repo](https://github.com/your‑username/wefe‑nexus‑repo) | [Poster‑link]()
@@ -87,7 +87,7 @@ Cartographic visual narrative connecting traditional 24‑solar‑terms knowledg
 
 ---
 
-<a href="https://github.com/[YOUR‑GITHUB‑USERNAME]">
+<a href="https://github.com/[caoqyqianyi]">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=[YOUR‑GITHUB‑USERNAME]&theme=buefy&show_icons=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR‑GITHUB‑USERNAME]&theme=buefy&layout=compact" />
 </a>
