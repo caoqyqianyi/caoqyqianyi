@@ -60,7 +60,7 @@ I am a geospatial data analyst and cartographer who integrates **multi-source** 
 
 ---
 
-### 📂 Selected Projects <details><summary>Click to expand view projects</summary>
+### 📂 Selected Projects <details><summary>Click the links to to view more details</summary>
 
 
 #### 🏆 WEFE‑Nexus Multi‑scale Analysis
