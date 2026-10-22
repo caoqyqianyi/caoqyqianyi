@@ -11,7 +11,7 @@ I am a geospatial data analyst and cartographer who integrates **multi-source** 
 ### 🧩 About Me
 - 🌳 &nbsp; Environmental data analyst focusing on geospatial systems, Water-Energy-Food-Ecosystem (WEFE) Nexus, climate resilience, disaster and risk management, and reproducible environmental research workflows.
 - 🎓 &nbsp; Erasmus Mundus Joint Master graduate in Cartography (Technical University of Munich / Technical University of Vienna / ITC‑Twente); Bachelor in Geographic Information Science (GIS).
-- 🇺🇳 &nbsp; Experience across the United Nations Office of Outer Space Affairs (UNOOSA-UNSPIDER), Horizon‑Europe research projects, and applied urban environmental IoT analysis; skilled in multi‑partner research coordination.
+- 🇺🇳 &nbsp; Experience across the United Nations Office of Outer Space Affairs (UNOOSA), Horizon‑Europe research projects, and applied urban environmental IoT analysis; skilled in multi‑partner research coordination.
 - 🌱 &nbsp; Interested in climate‑mitigation scenarios, integrated assessment modelling, turning complex datasets into policy‑ready briefing materials and scientific visualisation.
 - ✍️ &nbsp; Enjoy cartographic storytelling, technical documentation and science communication for mixed expert‑and‑non‑expert audiences.
 
