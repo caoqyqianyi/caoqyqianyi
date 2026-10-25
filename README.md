@@ -75,7 +75,7 @@ I am a geospatial data analyst and cartographer who integrates **multi-source** 
 Master thesis & TRANS‑SAHARA Horizon‑Europe project | AGIT 2025 Best‑Poster‑Award.
 Built reproducible Python/SQL workflows to harmonise multi‑source environmental‑socio‑economic datasets and compute spatial climate‑resilience indicators. Visualized the WEFE Nexus interdependencies with integration of QGIS and Power BI dashboard.
 
-[Water-Energy-Food-Energy Nexus Interdependencies Analysis](https://github.com/caoqyqianyi/wefe‑nexus](https://github.com/caoqyqianyi/Water-Energy-Food-Energy-WEFE-Nexus-Interdependencies-Analysis.git) 
+[Water-Energy-Food-Energy Nexus Interdependencies Analysis](https://github.com/caoqyqianyi/Water-Energy-Food-Energy-WEFE-Nexus-Interdependencies-Analysis.git) 
  | [AGIT 2025 Best‑Poster‑link](https://agit25posters.blogspot.com/2025/06/45-visualizing-water-energy-food.html)
 
 #### 🌳 Smart‑Trees Urban Micro‑Climate IoT Analysis (C20 e.V.)
