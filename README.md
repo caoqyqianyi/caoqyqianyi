@@ -63,6 +63,20 @@ I am a geospatial data analyst and cartographer who integrates **multi-source** 
 ### 📂 Selected Projects
 #### Click the links to view more details
 
+#### 🌍 When does net‑zero CO₂ happen in IPCC AR6 scenarios?
+
+<table>
+  <tr>
+    <td><img width="500" src="https://raw.githubusercontent.com/caoqyqianyi/AR6_NetZero/main/output/net_co2_pathways.png" alt="Net CO2 emissions pathways for AR6 C1–C3 scenarios with per-category medians"></td>
+    <td><img width="500" src="https://raw.githubusercontent.com/caoqyqianyi/AR6_NetZero/main/output/net_zero_timing.png" alt="Boxplots of net-zero CO2 year per temperature category"></td>
+  </tr>
+</table>
+
+Reproducible Python analysis of the public IPCC AR6 Scenario Database (IIASA) with `pyam`: estimated the first year global net CO₂ emissions reach zero for all 536 scenarios in the 1.5 °C and 2 °C categories (C1–C3), using linear interpolation between model time steps, with unit tests and an academic README. Median net‑zero years: 2054 (C1), 2059 (C2), 2071 (C3).
+
+[Repo: When does net‑zero CO₂ happen in IPCC AR6 scenarios?](https://github.com/caoqyqianyi/AR6_NetZero)
+ | [IPCC AR6 Scenario Database (IIASA)](https://data.ece.iiasa.ac.at/ar6/)
+
 
 #### 🏆 Water-Energy-Food-Ecosystem Nexus Multi‑scale Analysis
 <table>
