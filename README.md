@@ -75,7 +75,7 @@ I am a geospatial data analyst and cartographer who integrates **multi-source** 
 Master thesis & TRANS‑SAHARA Horizon‑Europe project | AGIT 2025 Best‑Poster‑Award.
 Built reproducible Python/SQL workflows to harmonise multi‑source environmental‑socio‑economic datasets and compute spatial climate‑resilience indicators. Visualized the WEFE Nexus interdependencies with integration of QGIS and Power BI dashboard.
 
-[Water-Energy-Food-Energy Nexus Interdependencies Analysis](https://github.com/caoqyqianyi/Water-Energy-Food-Energy-WEFE-Nexus-Interdependencies-Analysis.git) 
+[Repo: Water-Energy-Food-Energy Nexus Interdependencies Analysis](https://github.com/caoqyqianyi/Water-Energy-Food-Energy-WEFE-Nexus-Interdependencies-Analysis.git) 
  | [AGIT 2025 Best‑Poster‑link](https://agit25posters.blogspot.com/2025/06/45-visualizing-water-energy-food.html)
 
 #### 🌳 Smart‑Trees Urban Micro‑Climate IoT Analysis (C20 e.V.)
@@ -88,7 +88,7 @@ Built reproducible Python/SQL workflows to harmonise multi‑source environmenta
 
 Time‑series analysis of urban IoT sensor measurements; built interactive Mapbox‑GL‑JS web‑mapping for non‑expert stakeholders in the Smarte KielRegion project.
 
-[Smart‑Trees Urban Micro‑Climate IoT Analysis](https://github.com/caoqyqianyi/smart‑trees‑repo) 
+[Repo: Smart‑Trees Urban Micro‑Climate IoT Analysis](https://github.com/caoqyqianyi/Smart-Trees-Urban-Micro-Climate-IoT-Analysis.git)
  | [Smart Trees Project‑page](https://smart-trees.de/?view=trees&tree=tree-001&rangeData=24h)
 
 #### 🛰️ UN‑SPIDER | Mapping Disaster Resilience: GeoAI Best Practices
