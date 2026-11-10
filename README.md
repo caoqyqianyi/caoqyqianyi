@@ -63,6 +63,20 @@ I am a geospatial data analyst and cartographer who integrates **multi-source** 
 ### 📂 Selected Projects
 #### Click the links to view more details
 
+#### 🔎 Can humanitarian action be measured?
+
+<table>
+  <tr>
+    <td><img width="500" src="https://raw.githubusercontent.com/caoqyqianyi/can-humanitarian-action-be-measured/main/assets/brief-map.png" alt="World choropleth of population growth since 1960 for the countries in the audited framework: five marked, four grey where the series has no row"></td>
+    <td><img width="500" src="https://raw.githubusercontent.com/caoqyqianyi/can-humanitarian-action-be-measured/main/assets/brief-header.png" alt="Masthead of the generated brief: 13 indicators audited, 1 monitorable, 9 conditional, 3 with no data trail"></td>
+  </tr>
+</table>
+
+Humanitarian results framework audit | 13 indicators, IIASA / ISIMIP denominators, offline HTML brief.
+Python audit desk that answers the question one indicator at a time: 13 logframe lines in, a per-line verdict out — monitorable, conditional, or no data trail — before a proposal is signed. Denominators are built from the ISIMIP / HYDE national population series served by IIASA, fetched through the portal API and SHA-512 checked on arrival; the output is one offline HTML brief (inline SVG map, crosshair chart, printable method section) plus a Power BI star schema. 36 tests, CI on Python 3.11 and 3.12.
+[Repo: Can humanitarian action be measured?](https://github.com/caoqyqianyi/can-humanitarian-action-be-measured)
+ | [The brief (live)](https://caoqyqianyi.github.io/can-humanitarian-action-be-measured/)
+
 #### 🌍 When does net‑zero CO₂ happen in IPCC AR6 scenarios?
 
 <table>
