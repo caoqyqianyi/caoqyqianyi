@@ -75,7 +75,7 @@ I am a geospatial data analyst and cartographer who integrates **multi-source** 
 Humanitarian results framework audit | 13 indicators, IIASA population data, one offline HTML brief. Python tool that checks a humanitarian proposal before signature: for each indicator, whether the data to report it actually exists. Population figures come from ISIMIP / HYDE, hosted by IIASA, downloaded via its API and checksum-verified. Output: one offline HTML brief (map, chart, method) plus a Power BI model. Example: 1 indicator measurable, 9 with a caveat, 3 with no data trail.
 
 [Repo: Can humanitarian action be measured?](https://github.com/caoqyqianyi/can-humanitarian-action-be-measured)
- | [The brief (live)](https://caoqyqianyi.github.io/Can-Humanitarian-Action-Be-Measured)
+ | [The brief for Somalia–Yemen multi-country results framework (live)](https://caoqyqianyi.github.io/Can-Humanitarian-Action-Be-Measured)
 
 #### 🌍 When does net‑zero CO₂ happen in IPCC AR6 scenarios?
 
