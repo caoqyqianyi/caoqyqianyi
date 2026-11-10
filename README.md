@@ -72,8 +72,7 @@ I am a geospatial data analyst and cartographer who integrates **multi-source** 
   </tr>
 </table>
 
-Humanitarian results framework audit | 13 indicators, IIASA / ISIMIP denominators, one offline HTML brief.
-Python audit desk that checks a results framework before the proposal is signed: 13 logframe lines in, a per-line verdict out. Built the denominators from the ISIMIP / HYDE national population series served by IIASA, downloaded through the portal API and SHA-512 verified on arrival. Output is one offline HTML brief (inline SVG world map, crosshair chart, printed method section) plus a Power BI star schema over the same tables, tested with 36 unit tests and CI on Python 3.11 and 3.12. The example framework came back 1 monitorable, 9 conditional, 3 with no data trail.
+Humanitarian results framework audit | 13 indicators, IIASA-hosted population data, one offline HTML brief.Python tool that checks a humanitarian proposal before signature: it takes the results framework and says, line by line, whether the data to report each indicator actually exists. The population figures behind those answers come from ISIMIP / HYDE, a public dataset hosted by IIASA, downloaded through its API and checksum-verified on arrival. Output is one offline HTML brief (world map, chart, printed method) plus a Power BI model on the same tables, covered by 36 tests. On the example framework: 1 indicator measurable as written, 9 only with a caveat, 3 with no data trail.
 
 [Repo: Can humanitarian action be measured?](https://github.com/caoqyqianyi/can-humanitarian-action-be-measured)
  | [The brief (live)](https://caoqyqianyi.github.io/Can-Humanitarian-Action-Be-Measured)
